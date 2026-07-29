@@ -54,8 +54,8 @@ Weather-Data-Prediction/
 ├── Weather_Prediction.ipynb
 ├── README.md
 ├── requirements.txt
-├── DailyDelhiClimateTrain.csv
-├── DailyDelhiClimateTest.csv
+├──weather/├── DailyDelhiClimateTrain.csv
+|          ├── DailyDelhiClimateTest.csv
 ├── weather_model.pkl
 └── graphs/
 
