@@ -56,8 +56,7 @@ Weather-Data-Prediction/
 ├── requirements.txt
 ├──weather/├── DailyDelhiClimateTrain.csv
 |          ├── DailyDelhiClimateTest.csv
-├── weather_model.pkl
-└── graphs/
+└── weather_model.pkl
 
 ---
 
